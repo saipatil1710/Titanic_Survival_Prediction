@@ -62,5 +62,5 @@ For convenience, we loaded a CSV version from a public GitHub repository.
 ## Output:
 - Model Accuracy - 81.00 %
 - Women were more likely to survive than men
-- Passengers in lower classes (1st) had better survival rates 
+- Passengers in lower classes had better survival rates 
   
